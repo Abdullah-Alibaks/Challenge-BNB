@@ -17,10 +17,10 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 // plak de code in het object hierboven
 
 var myIcon = L.icon({
-    iconUrl: 'roc.jpg',
+    iconUrl: 'images/roc.jpg',
     iconSize: [24, 24],
 });
 
 var rocMarker = L.marker([52.28785, 4.83866], {
-    icon: myIcon
+  icon: myIcon
 }).addTo(mymap);

@@ -16,7 +16,8 @@
 | Ontwerpen   | Mockup van BNB-site maken                      |                     | Klaar  |
 | ...         | Styling van elementen bepalen                  | 1:00 u              | Klaar  |
 | Realiseren  | Bestanden aanmaken                             | 0:10 u              | Klaar  |
-| ...         |                                                |                     |        |
+| ...         | DATABASE aanmaken                              | 0:30 u              | Klaar  |
+| ...         | Bepaalde styling invoeren met css              | 1:00 u              | Klaar  |
 | Testen      | Applicatie testen                              | 3:00 u              | Klaar  |
 | ...         | Query's invoeren                               | 0:30 U              | Klaar  |
 | ...         | Filter erbij maken                             | 0:30 u              | Klaar  |
