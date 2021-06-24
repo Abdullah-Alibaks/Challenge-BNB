@@ -1,9 +1,9 @@
 <?php
 // Je hebt een database nodig om dit bestand te gebruiken....
 
-if (!isset($db_conn)) { //deze if-statement checked of er een database-object aanwezig is. Kun je laten staan.
-    return;
-}
+//if (!isset($db_conn)) { //deze if-statement checked of er een database-object aanwezig is. Kun je laten staan.
+   // return;
+//}
 
 $database_gegevens = null;
 $poolIsChecked = false;

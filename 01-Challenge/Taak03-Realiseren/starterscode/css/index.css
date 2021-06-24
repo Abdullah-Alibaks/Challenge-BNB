@@ -1,7 +1,9 @@
 #mapid {
     height: 670px;
 }
+header {
 
+}
 main {
     display: flex;
 }
@@ -39,6 +41,8 @@ footer div {
 .filter-box label{
     width: 100px;
     line-height: 1.8em;
+    display: flex;
+    flex-direction: row;
 }
 
 .form-control{
